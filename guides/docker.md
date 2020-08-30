@@ -42,5 +42,6 @@ your local machine and the docker container. YOu can change what the shared
 folder is by adding a path to a folder you want to be shared as a command line
 argument to the run script.
 
-For more details, see the [docker.mp4](docker.mp4) file for a tutorial on how
-it all works. 
+For more details, see the 
+[docker.mp4](https://umd.instructure.com/courses/1286199/external_tools/28827) 
+file for a tutorial on how it all works. 
