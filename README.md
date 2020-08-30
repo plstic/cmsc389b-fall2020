@@ -1,4 +1,4 @@
-# CMSC389B -- A Tour of Programing Languages
+# CMSC389B -- A Tour of Programming Languages
 
 **Prerequisites:** C- or better in CMSC216 and CMSC250\
 **Credits:** 1\
@@ -33,12 +33,12 @@ Justin Goodman (<https://umd.zoom.us/my/justgood>) TBA.
 We will utilize a handful of services for this course:
 | **Service**    | **Purpose** | **link**     |
 | :------------- | :---------- | :----------- |
-| Canvas      | annoucements, grades | <https://umd.instructure.com/courses/1286199> |
-| Panopto     | lecture videos | <https://umd.instructure.com/courses/1286199> |
+| Canvas      | announcements, grades | <https://umd.instructure.com/courses/1286199> |
+| Panopto     | lecture videos | <https://umd.instructure.com/courses/1286199/external_tools/28827> |
 | GitHub      | syllabus, notes, assignments, exams | <https://github.com/plstic/cmsc389b-fall2020> |
 | Gradescope  | submission of completed work | <https://www.gradescope.com/courses/172268/> |
 
-Additionally, we are endorsing Docker and VSCode for this course.
+Additionally, we are endorsing [Docker](https://www.docker.com/) and [VSCode](https://code.visualstudio.com/) for this course.
 We strongly recommend that you use both (industry-standard) applications to complete your assignments.
 We intend to offer written and video tutorials for both git and Docker.
 
@@ -46,22 +46,22 @@ We intend to offer written and video tutorials for both git and Docker.
 
 |  Week | Topic (link to notes) | Language (link to project) | Etc (links to quiz/exam sample) |
 |:-----:|---------------------------------------------------------|------------------------------|------------|
-| 09-04 | [Introduction/Syllabus](notes/00-intro.md)              | --                           |            |
-| 09-11 | [Procedural Languages](notes/01-procedural.md)          | [COBOL](projects/cobol)      |            |
-| 09-18 | [REPL/Scripting](notes/02-scripting.md)                 | [Lua](projects/lua)          |            |
-| 09-25 | [Logic languages](notes/03-logic.md)                    | [Prolog](projects/)          |            |
-| 10-02 | [Stack-based language](notes/04-stack.md)               | [Forth](projects/)           |            |
-| 10-09 | [Array programming](notes/05-array.md)                  | [J](projects/j)              |            |
-| 10-16 | [Security](notes/06-security.md)                        | [Rust](projects/)            |            |
-| 10-23 | [Concurrent languages](notes/07-concurrent.md)          | Go (no proj.)                | [exam 1 assigned](exams/) |
-| 10-30 | [Meta languages](notes/08-meta.md)                      | [Racket](projects/)          | [exam 1 due](exams/)      |
-| 11-06 | [Parsing Languages](notes/09-parsing.md)                | [lex/yacc](projects/)        |            |
-| 11-13 | [Declarative languages](notes/10-declarative.md)        | [MySQL](projects/)           |            |
-| 11-20 | [Esoteric languages](notes/11-esoteric.md)              | [INTERCAL](projects/)        |            |
-| break | [Oddities](notes/12-oddities.md)                        | MSFT PowerPoint (no proj.)   |            |
-| 12-04 | [Reflective programming](notes/13-reflective.md)        | [Befunge](projects/)         |            |
-| 12-11 | [Shading languages](notes/14-shading.md)                | OpenGL (no proj.)            | [exam 2 assigned](exams/) |
-| final | [Conclusion](notes/15-concl.md)                         | --                           | [exam 2 due](exams/)      |
+| 09-04 | [Introduction/Syllabus](notes/)              | --                           |            |
+| 09-11 | [Procedural Languages](notes/)          | [COBOL](projects/)      |            |
+| 09-18 | [REPL/Scripting](notes/)                 | [Lua](projects/)          |            |
+| 09-25 | [Logic languages](notes/)                    | [Prolog](projects/)          |            |
+| 10-02 | [Stack-based language](notes/)               | [Forth](projects/)           |            |
+| 10-09 | [Array programming](notes/)                  | [J](projects/)              |            |
+| 10-16 | [Security](notes/)                        | [Rust](projects/)            |            |
+| 10-23 | [Concurrent languages](notes/)          | Go (no proj.)                | [exam 1 assigned](exams/) |
+| 10-30 | [Meta languages](notes/)                      | [Racket](projects/)          | [exam 1 due](exams/)      |
+| 11-06 | [Parsing Languages](notes/)                | [lex/yacc](projects/)        |            |
+| 11-13 | [Declarative languages](notes/)        | [MySQL](projects/)           |            |
+| 11-20 | [Esoteric languages](notes/)              | [INTERCAL](projects/)        |            |
+| break | [Oddities](notes/)                        | MSFT PowerPoint (no proj.)   |            |
+| 12-04 | [Reflective programming](notes/)        | [Befunge](projects/)         |            |
+| 12-11 | [Shading languages](notes/)                | OpenGL (no proj.)            | [exam 2 assigned](exams/) |
+| final | [Conclusion](notes/)                         | --                           | [exam 2 due](exams/)      |
 
 ## Evaluation
 

@@ -19,7 +19,7 @@ Use whatever package manager your OS supports to install the `git` package.
 ## Usage
 
 We will be using git to distribute any projects, notes, exams and most other
-material for this course. You will need to clone the github repository we will
+material for this course. You will need to clone the GitHub repository we will
 be storing the content in. You can do this by running `git clone 
 https://github.com/plstic/cmsc389b-fall2020`. Once cloned, you should then see
 a folder titled `cmsc389b-fall2020` in the current directory. `cd` into this 

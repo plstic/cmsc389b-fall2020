@@ -10,7 +10,7 @@ Docker environment instructions. Docker has wonderful documentation that we high
    * _Be patient while it builds_
    * This should build a new Docker image based on our `Dockerfile`, and tag it
    `cmsc389b`
-2. Run [`run.sh`](run.sh), which will create and run a contianer based on the 
+2. Run [`run.sh`](run.sh), which will create and run a container based on the 
 `cmsc389b` image
 
 Docker is like a VM and you can have a shared drive between your docker 
