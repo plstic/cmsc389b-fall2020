@@ -24,8 +24,8 @@ Students are expected to keep up-to-date with course material.
 
 **Office Hours:**\
 Both facilitators will be available in a joint Zoom call during Friday's class time.
-Both facilitators will also have one hour each of Zoom office hours per week.
-Clifford Bakalian (<https://umd.zoom.us/my/bakalian>) TBA.
+Both facilitators will also have one hour each of Zoom office hours per week.\
+Clifford Bakalian (<https://umd.zoom.us/my/bakalian>) TBA.\
 Justin Goodman (<https://umd.zoom.us/my/justgood>) TBA.
 
 ## Services
@@ -46,7 +46,7 @@ We intend to offer written and video tutorials for both git and Docker.
 
 |  Week | Topic (link to notes) | Language (link to project) | Etc (links to quiz/exam sample) |
 |:-----:|---------------------------------------------------------|------------------------------|------------|
-| 09-04 | [Introduction/Syllabus](notes/)              | --                           |            |
+| 09-04 | [Introduction/Syllabus](notes/00-intro.md)              | --                           |            |
 | 09-11 | [Procedural Languages](notes/)          | [COBOL](projects/)      |            |
 | 09-18 | [REPL/Scripting](notes/)                 | [Lua](projects/)          |            |
 | 09-25 | [Logic languages](notes/)                    | [Prolog](projects/)          |            |
