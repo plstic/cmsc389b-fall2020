@@ -277,8 +277,8 @@ The schedule should print as **empty** after calling a clear.
 
 ### Evaluation
 
-* 75% Public Tests
-* 20% Private Tests
+* 20% Public Tests
+* 75% Private Tests
 * 5% style
 
 The public tests should be self-explanatory.
