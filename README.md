@@ -24,9 +24,8 @@ Students are expected to keep up-to-date with course material.
 
 **Office Hours:**\
 Both facilitators will be available in a joint Zoom call during Friday's class time.
-Both facilitators will also have one hour each of Zoom office hours per week.\
-Clifford Bakalian (<https://umd.zoom.us/my/bakalian>) TBA.\
-Justin Goodman (<https://umd.zoom.us/my/justgood>) TBA.
+Both facilitators will also have one hour each of Zoom office hours per week.
+Timings may be dynamic, and will be updated regularly on the Canvas course page.
 
 ## Services
 
