@@ -118,7 +118,7 @@ language, we each have our own lists of what we do to pick up a language.
 
 Cliff's list of success(R)
 1. arithmetic
-1. control Flow (Conditionals and looping, function calls)
+1. control flow (conditionals, looping, function calls)
 1. memory
 1. strings
 1. simple IO
@@ -134,6 +134,6 @@ inefficient ways. For example, learning pointer arithmetic without first
 learning how to add numbers in C. 
 
 We have spent much time designing this course to be easily digestable, however 
-we are ultimtey not the ones in charge of your learning. How you decide to 
+we are ultimately not the ones in charge of your learning. How you decide to 
 approach this course is up to you, and we will do our best to guide you through 
 the experience.
