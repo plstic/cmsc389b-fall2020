@@ -47,7 +47,7 @@ We intend to offer written and video tutorials for both git and Docker.
 |  Week | Topic (link to notes) | Language (link to project) | Etc (links to quiz/exam sample) |
 |:-----:|---------------------------------------------------------|------------------------------|------------|
 | 09-04 | [Introduction/Syllabus](notes/00-intro.md)              | --                           |            |
-| 09-11 | [Procedural Languages](notes/)          | [COBOL](projects/)      |            |
+| 09-11 | [Procedural Languages](notes/01-procedural.md)          | [COBOL](projects/cobol)      |            |
 | 09-18 | [REPL/Scripting](notes/)                 | [Lua](projects/)          |            |
 | 09-25 | [Logic languages](notes/)                    | [Prolog](projects/)          |            |
 | 10-02 | [Stack-based language](notes/)               | [Forth](projects/)           |            |
