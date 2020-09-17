@@ -7,6 +7,6 @@ if [%vol%] == [] (
 )
 set vol="%cd%"\%vol%
 echo *** Remember to "exit" the terminal instead of closing the window
-docker run -it --rm -v %vol%:/home/student/ -p 65001:65001 cmsc389b
+docker run -it --rm -v %vol%:/home/student/src -p 65001:65001 cmsc389b
 echo *** Finished -- make sure the vm was stopped/deleted
 pause

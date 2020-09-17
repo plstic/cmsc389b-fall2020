@@ -4,4 +4,4 @@ if [ -z "$1" ] ; then
 else
   shared=$PWD/$1
 fi
-sudo docker run -it --rm -e DISPLAY=$DISPLAY -v $shared:/home/student/ -p 65001:65001 cmsc389b
+sudo docker run -it --rm -e DISPLAY=$DISPLAY -v $shared:/home/student/src -p 65001:65001 cmsc389b
