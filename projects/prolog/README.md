@@ -12,6 +12,7 @@ can check this by running `swipl --version`. If the command does not run, then
 you do not have swi-prolog. You must have swi-prolog, as other implementation 
 versions may cause tests to fail.
 
+Here is a vscode extension for those use VSCode: https://marketplace.visualstudio.com/items?itemName=arthurwang.vsc-prolog.
 ### Introduction
 
 [Hunt the Wunpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus) is a 1973 game
