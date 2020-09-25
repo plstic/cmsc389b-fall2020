@@ -66,8 +66,9 @@ You will be given some of the game rules along with 3 helper rules:
 	+ rev(X,Y) - `true` if list Y's elements are in reverse order of the X's 
 	elements
 
-You will need to implemet two procedures: `wumpus(X)` and `killWumpus(Y,W)`.
+You will need to implemet three procedures: `wumpus(X)`, `pit(X)`, and `killWumpus(Y,W)`.
 The `wumpus(X)` rule will return true if X is the cave with the Wumpus.
+The `pit(X)` rule will return true if X is the cave with a pit.
 The `killWumpus(Y,W)` rule will return true if W is 
 the shortest path of caves numbers starting at Y, and ending in the Wumpus' 
 cave. 
