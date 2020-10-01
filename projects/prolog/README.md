@@ -12,6 +12,7 @@ can check this by running `swipl --version`. If the command does not run, then
 you do not have swi-prolog. You must have swi-prolog, as other implementation 
 versions may cause tests to fail.
 
+Here is a vscode extension for those use VSCode: https://marketplace.visualstudio.com/items?itemName=arthurwang.vsc-prolog.
 ### Introduction
 
 [Hunt the Wunpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus) is a 1973 game
@@ -36,7 +37,7 @@ You just need to finish the `hello.pl` file. Should be easy enough.
 The gameboard consists of 20 caves arranged around a dodecahedron. Each cave has 
 3 neighbors which you can move to. The numbering of the caves is shown below:
 
-![images/2d.png](/images/2d.png) ![images/3d.png](/images/3d.png)
+![images/2d.png](images/2d.png) ![images/3d.png](images/3d.png)
 
 There is one cave which houses the wumpus. There are 2 caves which have spiked
 pits. If you go into a cave with a pit, you fall to your death. In this 
@@ -65,8 +66,9 @@ You will be given some of the game rules along with 3 helper rules:
 	+ rev(X,Y) - `true` if list Y's elements are in reverse order of the X's 
 	elements
 
-You will need to implemet two procedures: `wumpus(X)` and `killWumpus(Y,W)`.
+You will need to implemet three procedures: `wumpus(X)`, `pit(X)`, and `killWumpus(Y,W)`.
 The `wumpus(X)` rule will return true if X is the cave with the Wumpus.
+The `pit(X)` rule will return true if X is the cave with a pit.
 The `killWumpus(Y,W)` rule will return true if W is 
 the shortest path of caves numbers starting at Y, and ending in the Wumpus' 
 cave. 

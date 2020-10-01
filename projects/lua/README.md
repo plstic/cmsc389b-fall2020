@@ -35,7 +35,7 @@ If it does not, you may need to rebuild your image since our provided `Dockerfil
 Or, if your shared folder is the same as `/home/student` then you'll be overwriting the original contents (and thus missing `.bashrc`).
 The specific command we use to ensure LuaRocks works is: `luarocks path >> /home/student/.bashrc`.
 
-This assignment is due **Friday, September 25th at 11:59pm on Gradescope**.
+This assignment is due **Friday, September 27th at 11:59pm on Gradescope**.
 You will submit one `hello.lua` and one `snake.cob` to the `Lua` Gradescope assignment.
 You will be graded on public and private tests.
 
