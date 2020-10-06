@@ -12,6 +12,8 @@ can check this by running `gforth`. If the command does not run, then
 you do not have gforth. You must have gforth, as other implementation 
 versions may cause tests to fail.
 
+VS Code Extentsion: https://marketplace.visualstudio.com/items?itemName=fttx.language-forth
+idk, I dont use VScode but this should work. 
 ### Introduction
 
 You will be implementing a a simulation of operations that could occur to a decl
