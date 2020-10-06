@@ -63,7 +63,7 @@ and useful programs.
  + `.` - will pop the top item from the stack
  + `swap` - will swap the top two items from the stack
  + `over` - will duplicate the second from the top item from the stack
- + `rot` - will place the top item of the stack on the bottom of the stack
+ + `rot` - will place the third item of the stack on the top of the stack
  + `nip` - will remove the second from the top item from the stack
  + `tuck` - will copy the top item from the stack and palce it under the top 2 
  items
