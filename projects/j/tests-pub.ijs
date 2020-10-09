@@ -147,31 +147,34 @@ pre =: 'test_'
 succ =: 0
 fail =: 0
 run_tests =: 3 : 0
-    res =: 0 NB. assume success
     if. (#y) > 0 do.
         f =. {.y
         if. pre -: 5{.f do.
             NB. enable_assert'' NB. ?? can students disable assert inside func?
             display '   running: ',f
             ".('g =: ',f) NB. (deb f) verb trims whitespace (require 'strings')
-            r =. g''
+            r =: 1
+            try.
+                r =: g''
+            catch.
+                display 'error occurred'
+            end.
             if. r do. fail =: fail + 1
             else. succ =: succ + 1
             end.
-            res =: res or r
         end.
-        res or (run_tests (}. y)) NB. if test (r) returned 1, carry that through
+        run_tests (}. y)
     end.
 )
 NB. output
-res =: run_tests loc
+run_tests loc
 display 'You passed';succ;'test(s)'
 display 'You failed';fail;'test(s)'
-display res { ('Success! :)'; 'Failure! :(')
+display (fail>0) { ('Success! :)'; 'Failure! :(')
 
 
 
 NB. TESTING BREAKDOWN
 
-exit res NB. output tests as exit code
+exit fail NB. output tests as exit code
 NB. bash get exit code:  echo $?
