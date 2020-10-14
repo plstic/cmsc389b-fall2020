@@ -1,5 +1,9 @@
 create deck 52 cells allot
 
+[                                            ]
+2 deck 0 cells + !
+
+
 \ so you probably want to also initial hands for 4 people
 \ and make some varaibles to keep track of card positions
 \ how you do this and the names of varaibles should not matter
