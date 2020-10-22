@@ -48,11 +48,11 @@ We intend to offer written and video tutorials for both git and Docker.
 | 09-04 | [Introduction/Syllabus](notes/00-intro.md)              | --                           |            |
 | 09-11 | [Procedural Languages](notes/01-procedural.md)          | [COBOL](projects/cobol)      |            |
 | 09-18 | [REPL/Scripting](notes/02-scripting.md)                 | [Lua](projects/lua)          |            |
-| 09-25 | [Logic languages](notes/03-logic.md)                    | [Prolog](projects/prolog)          |            |
-| 10-02 | [Stack-based language](notes/04-stack.md)               | [Forth](projects/forth)           |            |
+| 09-25 | [Logic languages](notes/03-logic.md)                    | [Prolog](projects/prolog)    |            |
+| 10-02 | [Stack-based language](notes/04-stack.md)               | [Forth](projects/forth)      |            |
 | 10-09 | [Array programming](notes/05-array.md)                  | [J](projects/j)              |            |
-| 10-16 | [Security](notes/)                        | [Rust](projects/)            |            |
-| 10-23 | [Concurrent languages](notes/)          | Go (no proj.)                | [exam 1 assigned](exams/) |
+| 10-16 | [Security](notes/06-security.md)                        | [Rust](projects/rust)        |            |
+| 10-23 | [Concurrent languages](notes/07-concurrent.md)          | Go (no proj.)                | [exam 1 assigned](exams/) |
 | 10-30 | [Meta languages](notes/)                      | [Racket](projects/)          | [exam 1 due](exams/)      |
 | 11-06 | [Parsing Languages](notes/)                | [lex/yacc](projects/)        |            |
 | 11-13 | [Declarative languages](notes/)        | [MySQL](projects/)           |            |
