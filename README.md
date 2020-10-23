@@ -52,8 +52,8 @@ We intend to offer written and video tutorials for both git and Docker.
 | 10-02 | [Stack-based language](notes/04-stack.md)               | [Forth](projects/forth)      |            |
 | 10-09 | [Array programming](notes/05-array.md)                  | [J](projects/j)              |            |
 | 10-16 | [Security](notes/06-security.md)                        | [Rust](projects/rust)        |            |
-| 10-23 | [Concurrent languages](notes/07-concurrent.md)          | Go (no proj.)                | [exam 1 assigned](exams/) |
-| 10-30 | [Meta languages](notes/)                      | [Racket](projects/)          | [exam 1 due](exams/)      |
+| 10-23 | [Concurrent languages](notes/07-concurrent.md)          | Go (no proj.)                | [exam 1 assigned](exams/ex01) |
+| 10-30 | [Meta languages](notes/)                      | [Racket](projects/)          | [exam 1 due](exams/ex01)      |
 | 11-06 | [Parsing Languages](notes/)                | [lex/yacc](projects/)        |            |
 | 11-13 | [Declarative languages](notes/)        | [MySQL](projects/)           |            |
 | 11-20 | [Esoteric languages](notes/)              | [INTERCAL](projects/)        |            |
