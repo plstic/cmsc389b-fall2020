@@ -58,7 +58,7 @@ Template code for each language appears in this repository.
 
 ## Question 5
 
-Using any language -- **different than the one used in Q3** -- we have learned thus far, solve the following.
+Using any language -- **different than the one used in Q4** -- we have learned thus far, solve the following.
 
 > Given a list of integers, remove all multiples of 5.
 
