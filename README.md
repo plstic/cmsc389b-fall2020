@@ -53,9 +53,9 @@ We intend to offer written and video tutorials for both git and Docker.
 | 10-09 | [Array programming](notes/05-array.md)                  | [J](projects/j)              |            |
 | 10-16 | [Security](notes/06-security.md)                        | [Rust](projects/rust)        |            |
 | 10-23 | [Concurrent languages](notes/07-concurrent.md)          | Go (no proj.)                | [exam 1 assigned](exams/ex01) |
-| 10-30 | [Meta languages](notes/)                      | [Racket](projects/)          | [exam 1 due](exams/ex01)      |
-| 11-06 | [Parsing Languages](notes/)                | [lex/yacc](projects/)        |            |
-| 11-13 | [Declarative languages](notes/)        | [MySQL](projects/)           |            |
+| 10-30 | [Meta languages](notes/08-meta.md)                      | [Racket](projects/racket)    | [exam 1 due](exams/ex01)      |
+| 11-06 | [Parsing Languages](notes/09-parsing.md)                | [flex/bison](projects/flexbison)        |            |
+| 11-13 | [Declarative languages](notes/10-declarative.md)        | [SQLite](projects/sqlite)    |            |
 | 11-20 | [Esoteric languages](notes/)              | [INTERCAL](projects/)        |            |
 | break | [Oddities](notes/)                        | MSFT PowerPoint (no proj.)   |            |
 | 12-04 | [Reflective programming](notes/)        | [Befunge](projects/)         |            |
