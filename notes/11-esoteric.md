@@ -52,7 +52,7 @@ esoteric languages.
 
 So what makes INTERCAL an esoteric language? Honestly, all you need to know 
 about how to use and write INTERCAL programs can be found in the 
-[manual](intercal.pdf). However I will share some of the most import parts of 
+[manual](examples/intercal.pdf). However I will share some of the most import parts of 
 the manual here. At the bottom, I'll have some example programs and go over what
 they do..
 
