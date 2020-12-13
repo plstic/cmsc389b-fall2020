@@ -56,11 +56,11 @@ We intend to offer written and video tutorials for both git and Docker.
 | 10-30 | [Meta languages](notes/08-meta.md)                      | [Racket](projects/racket)    | [exam 1 due](exams/ex01)      |
 | 11-06 | [Parsing Languages](notes/09-parsing.md)                | [flex/bison](projects/flexbison)        |            |
 | 11-13 | [Declarative languages](notes/10-declarative.md)        | [SQLite](projects/sqlite)    |            |
-| 11-20 | [Esoteric languages](notes/)              | [INTERCAL](projects/)        |            |
-| break | [Oddities](notes/)                        | MSFT PowerPoint (no proj.)   |            |
-| 12-04 | [Reflective programming](notes/)        | [Befunge](projects/)         |            |
-| 12-11 | [Shading languages](notes/)                | OpenGL (no proj.)            | [exam 2 assigned](exams/) |
-| final | [Conclusion](notes/)                         | --                           | [exam 2 due](exams/)      |
+| 11-20 | [Esoteric languages](notes/11-esoteric.md)              | [INTERCAL](projects/intercal)        |            |
+| break | [Oddities](notes/12-oddities.md)                        | MSFT PowerPoint (no proj.)   |            |
+| 12-04 | [Reflective programming](notes/13-reflective.md)        | [Befunge](projects/befunge)  |            |
+| 12-11 | [Applications](notes/14-ending.md)                      | --                           | [exam 2 assigned](exams/ex02) |
+| final | [Conclusion](notes/15-concl.md)                         | --                           | [exam 2 due](exams/ex02)      |
 
 ## Evaluation
 
